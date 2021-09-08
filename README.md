@@ -36,6 +36,6 @@ const joao = {
     },
     currentFocus: "Full Stack (js) Development",
 };
- 
+```
 ![Snake animation](https://github.com/JoaoVictor-hub/JoaoVictor-hub/blob/output/github-contribution-grid-snake.svg)
  
