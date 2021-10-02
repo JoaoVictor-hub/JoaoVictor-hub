@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
-- 👨🏽‍💻 I’m currently working on 🚌 [AMTT](https://amtt.pontagrossa.pr.gov.br/);
 - 🌱 I’m currently learning C#;
 - 📙 Check out my [Resume](https://www.linkedin.com/in/joao-victor-camargo/)
 - 📫 How to reach me: joaovictorcamargopg@gmail.com
