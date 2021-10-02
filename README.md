@@ -33,7 +33,7 @@ const joao = {
         },
         databases: ["MongoDB", "MySQL", "sqlite", "postgreSQL"],
     },
-    currentFocus: "Full Stack (js) Development",
+    currentFocus: "Full Stack Development",
 };
 ```
 ![Snake animation](https://github.com/JoaoVictor-hub/JoaoVictor-hub/blob/output/github-contribution-grid-snake.svg)
