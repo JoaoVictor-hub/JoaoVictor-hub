@@ -1,5 +1,7 @@
 ## Hi, I'm João Victor de Camargo!
 
+#### More active in GitLab: https://gitlab.com/JoaoVictor-hub
+
 <img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="220">
 <a href = "mailto:joaovictorcamargopg@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
