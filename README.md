@@ -3,7 +3,7 @@
 #### More active in GitLab: https://gitlab.com/JoaoVictor-hub
 
 <img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="220">
-<a href = "mailto:joaovictorcamargopg@gmail.com">
+<a href = "mailto:contato@joaovcamargo.com.br">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
  <a href="https://www.linkedin.com/in/joao-victor-camargo/" target="_blank">
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning C#;
 - 📙 Check out my [Resume](https://www.linkedin.com/in/joao-victor-camargo/)
-- 📫 How to reach me: joaovictorcamargopg@gmail.com
+- 📫 How to reach me: contato@joaovcamargo.com.br OR joaovictorcamargopg@gmail.com
 
 ###
 
